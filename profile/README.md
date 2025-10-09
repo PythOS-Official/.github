@@ -17,7 +17,7 @@ PythOS is an open-source operating system project that combines the power of Lin
 
 Here are some of our core and featured projects:
 
-- [`PythOS`](https://github.com/PythOS-Official/PythOS) – The core OS system, bootable and written in Python + Linux tools
+- [`PythOS`](https://github.com/milo1004/PythOS) – The core OS system, bootable and written in Python + Linux tools
 
 > 📦 For organization-wide issue templates and policies, see our [`.github` repository](https://github.com/PythOS-Official/.github).
 
