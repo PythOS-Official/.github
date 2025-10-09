@@ -36,7 +36,7 @@ Please review our [Code of Conduct](https://github.com/PythOS-Official/.github/b
 
 - 🌐 Website: [pythos.pages.dev](https://pythos.pages.dev)
 
-- 💬 Community: Discord or Forum *(link optional if available)*
+- 💬 Join our Discord!
 
 ---
 
