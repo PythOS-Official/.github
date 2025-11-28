@@ -1,7 +1,6 @@
 # 🐍 PythOS Official
 
-Welcome to the official GitHub of **PythOS** — a lightweight, Python-powered operating system designed for creativity, automation, and experimentation.
-
+Welcome to the official GitHub of **PythOS** , as know as **PythonOS** — a lightweight, Python-powered operating system designed for creativity, automation, and experimentation.
 > 🔗 Visit our website: [pythos.pages.dev](https://pythos.pages.dev)
 
 ## 💻 What is PythOS?
